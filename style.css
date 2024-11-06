@@ -29,6 +29,7 @@ main {
  .lista {
             list-style-type: disc; 
             padding: 0; 
+            text-align: left;
         }
        
         .lista img {
