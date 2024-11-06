@@ -31,7 +31,7 @@ main {
         }
        
         .lista img {
-            display: block;
+            display: square;
             margin-top: 20px;
             width: 350px; 
             height: 300px; 
