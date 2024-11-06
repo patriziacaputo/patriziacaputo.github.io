@@ -37,10 +37,6 @@ main {
             height: 300px; 
             align-content: center;
         }
-        .immagine-destra {
-    float: left;
-    margin-right: 10px; /* Spazio tra immagine e testo */
-}
 .container {
     max-width: 1000px;
     margin: auto;
